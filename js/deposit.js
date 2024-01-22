@@ -19,7 +19,7 @@ document.getElementById("deposit-btn").addEventListener("click", function(){
     balanceTotal.innerText = currentBalanceTotal;
     depositfield.value = '';
 });
-
+ 
 
 
 
